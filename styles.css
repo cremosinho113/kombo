@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("Background\ \(3\).png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -134,7 +134,7 @@ body {
     color: var(--branco-principal);
     margin-left: 1em;
 }
-
+Party46293
 .rodape__texto {
     margin: 1em 0;
     color: var(--cinza-secundario);
